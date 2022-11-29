@@ -1,0 +1,42 @@
+body{
+
+    text-align: center;
+}
+#a{
+    border-radius: 15px;
+    background-color: #382AE1;
+    border-color:#382AE1;
+    width: 200px;
+    height: 30px;
+    color: white;
+
+}
+#b{
+    border-radius: 15px;
+    border-color: white;
+    color: #7D859C;
+}
+img, .body{
+    width: 375px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.body{
+   background-color: lightgrey;
+   border-radius: 15px;
+}
+html{
+    display: flex;
+    justify-content: center;
+
+}
+.precio{
+    display: flex;
+    background-color: #F8F9FE;
+    border-radius: 5px;
+    width: 340px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 5%;
+    margin-right:5% ;
+}
